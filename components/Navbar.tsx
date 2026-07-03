@@ -48,7 +48,7 @@ export default function Navbar() {
               M
             </div>
             <span className="font-mono text-sm font-semibold text-foreground-2 group-hover:text-accent transition-colors">
-              manoj.dev
+              Manoj Kumar
             </span>
           </button>
 

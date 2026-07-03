@@ -16,7 +16,7 @@ export default function Footer() {
                 M
               </div>
               <span className="font-mono text-sm font-semibold text-foreground-2">
-                manoj.dev
+                Manoj Kumar
               </span>
             </div>
             <p className="text-xs text-muted leading-relaxed max-w-xs">
